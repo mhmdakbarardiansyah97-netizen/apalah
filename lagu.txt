@@ -1,0 +1,4 @@
+# DAFTAR LAGU - 1 lagu per baris (boleh ID 11 karakter atau link YouTube penuh)
+# Baris yang diawali tanda # diabaikan. Urutan = urutan putar.
+IBdcmLV-GnY
+KMHabOsetU8
